@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "harbingerofhistory:block/lantern_stand" },
+    "facing=east": { "model": "harbingerofhistory:block/lantern_stand", "y":  90},
+    "facing=south": { "model": "harbingerofhistory:block/lantern_stand", "y": 180 },
+    "facing=west": { "model": "harbingerofhistory:block/lantern_stand", "y": 270 }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "facing=north": { "model": "harbingerofhistory:block/piano" }
+  }
+}

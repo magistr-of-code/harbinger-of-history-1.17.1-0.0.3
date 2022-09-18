@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "harbingerofhistory:block/gold_fence" },
+    "facing=east": { "model": "harbingerofhistory:block/gold_fence", "y":  90},
+    "facing=south": { "model": "harbingerofhistory:block/gold_fence", "y": 180 },
+    "facing=west": { "model": "harbingerofhistory:block/gold_fence", "y": 270 }
+  }
+}
